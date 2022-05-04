@@ -2,7 +2,7 @@
 
 Ce dossier Repository est lié au cours `L'essentiel de Laravel 9`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![Nom final de la formation][lil-thumbnail-url] 
+![Laravel v9][lil-thumbnail-url] 
 
 DESCRIPTION DE LA FORMATION
 
@@ -20,9 +20,9 @@ La branche master correspond au code à la fin de la formation.
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Liste des logiciels/dépendances utiles à la formation] 
+   - composer
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
+3. Modifier le fichier .env par vos valeurs et utiliser la commande composer install afin d'initaliser le projet. 
 
 
 ### Formateur
