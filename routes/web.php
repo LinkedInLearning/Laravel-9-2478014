@@ -88,6 +88,3 @@ Route::get('/test-user', function () {
 // Route::get('/users/{user}', function (User $user) {
 //     return $user->email;
 // });
-Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
