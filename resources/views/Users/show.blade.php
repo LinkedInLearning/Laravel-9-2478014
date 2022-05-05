@@ -5,6 +5,5 @@
 @endsection
 
 @section('content')
-  <x-alert/>
   <div>{{ $user->email }}</div>
 @endsection
