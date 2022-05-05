@@ -5,7 +5,6 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\User;
 use App\Models\Category;
-use Illuminate\Support\Facades\DB;
 
 class UserController extends Controller
 {
@@ -18,16 +17,7 @@ class UserController extends Controller
     public function index()
     {
         $data['users'] = User::orderBy('id','desc')->paginate(5);
-
-        $categories = DB::table('categories')->get();
-        dump($categories);
-        $livre = DB::table('categories')->where('label', 'livre')->first();
-        dump($livre);
         $data['categories'] = Category::orderBy('id','desc')->paginate(5);
-        $cat1 = DB::table('categories')->find(1);
-        dump($cat1);
-        $users = DB::table('users')->count();
-        dump($users);
 
         // dump($data);
         dd($data);
