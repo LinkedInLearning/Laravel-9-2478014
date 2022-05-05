@@ -56,11 +56,15 @@ class UserController extends Controller
     /**
      * Show the profile for the given user.
      *
-     * @param  User  $user
+     * @param  int  $id
      * @return Response
      */
-    public function show(User $user)
-    {   
-        return view('users.show', ['user' => $user]);
+    public function show($id)
+    {
+        $user = $this->users->find($id);
+
+        dd($user);
+ 
+        return view('user.profile', ['user' => $user]);
     }
 }
