@@ -4,7 +4,7 @@ Ce dossier Repository est lié au cours `L'essentiel de Laravel 9`. Le cours ent
 
 ![Laravel v9][lil-thumbnail-url] 
 
-DESCRIPTION DE LA FORMATION
+Dans cette formation qui s'adresse aux développeurs ayant des notions PHP, vous découvrirez Laravel 9, la nouvelle version d'un framework de développement open source très utilisé de par le monde. Après vous avoir présenté le framework et ses composants, et procédé à l'installation et à la configuration des outils, Julian Layen vous plongera aussitôt dans la pratique, comme la mise en place du routing, la création de vues, l'utilisation de bases de données, l'authentification, la création d'API puis, avant de passer à un petit exercice, vous découvrirez d'autres composants.
 
 ## Instructions
 
