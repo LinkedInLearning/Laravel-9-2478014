@@ -32,8 +32,6 @@ La branche master correspond au code à la fin de la formation.
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-laravel-9/bienvenue-dans-l-essentiel-de-laravel-9
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQFU55HtjxtnyA/learning-public-crop_675_1200/0/1653383561652?e=1654502400&v=beta&t=x92A0uBd-_z5LI8pYhr8R_K48ZXFV0_kiXQqJoX8FtM
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-laravel-9
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2478014/2478014-1653383526220-16x9.jpg
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/julian-layen
-
-[1]: # (End of FR-Instruction ###############################################################################################)
