@@ -6,6 +6,8 @@ Ce dossier Repository est lié au cours `L'essentiel de Laravel 9`. Le cours ent
 
 Dans cette formation qui s'adresse aux développeurs ayant des notions PHP, vous découvrirez Laravel 9, la nouvelle version d'un framework de développement open source très utilisé de par le monde. Après vous avoir présenté le framework et ses composants, et procédé à l'installation et à la configuration des outils, Julian Layen vous plongera aussitôt dans la pratique, comme la mise en place du routing, la création de vues, l'utilisation de bases de données, l'authentification, la création d'API puis, avant de passer à un petit exercice, vous découvrirez d'autres composants.
 
+La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C'est pourquoi ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. 
+
 ## Instructions
 
 Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pouvez utiliser le menu des Branches sur GitHub afin d’accéder aux passages qui vous intéressent. Vous pouvez également rajouter `/tree/BRANCH_NAME` à l’URL afin d’accéder à la branche qui vous intéresse. 
